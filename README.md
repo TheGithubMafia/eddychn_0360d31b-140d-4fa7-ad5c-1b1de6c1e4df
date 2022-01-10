@@ -1,6 +1,4 @@
 <p align="center">
-    <img src="https://www.futuremind.com/m/cache/c8/15/c8150d863e584ed42ccfbdc3f3f1aa3a.jpg" alt="social" width="150px">
-    <br>
     <h1 align="center" >React Native E-commerce App</h1>
 </p>
 
