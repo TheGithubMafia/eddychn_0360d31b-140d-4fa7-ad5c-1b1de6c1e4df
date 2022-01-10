@@ -1,21 +1,16 @@
 <p align="center">
     <img src="https://www.futuremind.com/m/cache/c8/15/c8150d863e584ed42ccfbdc3f3f1aa3a.jpg" alt="social" width="150px">
     <br>
-    <h1 align="center" >DevBazar Native</h1>
+    <h1 align="center" >React Native E-commerce App</h1>
 </p>
 
-**Dev Bazar is an ecommerce mobile app with cart, wishlist and facet filter features build on top of Typescript, React Native, Redux, tailwind CSS and React-Native-Element.**
+**An ecommerce mobile app with cart, wishlist features made for practice purposes**
 
 ### Live:
    - ![demo](/assets/devNative.gif)
 
-### Preview
-Scan the QR code using Expo app from play store or App Store to view this application.    
 
-![download](https://user-images.githubusercontent.com/33570551/129193257-c55ef1de-fb1c-404f-9d29-8e8e348a5182.png)
-
-
-## Stacks used:
+## Tech used:
 
 ### Frontend:
 - React-Native
@@ -24,7 +19,7 @@ Scan the QR code using Expo app from play store or App Store to view this applic
 - Tailwind CSS
 - React-Native-Element
 
-### [Backend](https://github.com/gkanishk/dev-bazar-be):
+### [Backend](https://github.com/eddychn/react_native_ecommerce_second):
 - Nest.js 
 - PostgreSQL 
 - TypeORM
@@ -45,6 +40,3 @@ npm run start
 Will load at:
 
 `localhost:19002`
-
-### Licensing:
-![license](https://shields.io/badge/LICENCE-MIT-green?style=for-the-badgen)
